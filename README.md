@@ -49,15 +49,27 @@ Node.js, TypeScript, PostgreSQL, Prisma ORM, React, Vite, Tailwind CSS, JWT
 
 ---
 
-## WhatsApp Sales Automation Platform (In Development)
+## n8n-FortiSIEM Automation Project
 
 ### Tech Stack
-n8n, PostgreSQL, Docker, Nginx
+n8n, FortiSIEM, Webhooks, API Integration
 
-- Designed an automation architecture for WhatsApp-based sales workflows.
-- Implemented event-driven automation processes and service monitoring under a decoupled architecture.
-- Integrated Docker containers, reverse proxy configuration with Nginx, and workflow orchestration services.
-- Designed scalable automation pipelines using APIs and database integrations.
+- Designed automation workflows integrating n8n with FortiSIEM for security operations processes.
+- Implemented webhook-based automation to support event-driven monitoring and response workflows.
+- Built API integration logic for orchestrating alerts, notifications, and operational tasks.
+- Documented automation flows and integration behavior for maintainability and future improvements.
+
+---
+
+## Inventory App for Supplies Usage Control
+
+### Tech Stack
+Flask, SQLite, JavaScript, Tailwind CSS
+
+- Developed a web application to control laboratory supplies usage and inventory availability.
+- Implemented supply registration, usage tracking, and stock monitoring workflows.
+- Built reporting structures to support shortage forecasting and operational decision-making.
+- Replaced manual tracking processes with a digital tool focused on resource control and traceability.
 
 ---
 
@@ -70,6 +82,7 @@ Python, TensorFlow, Google Colab
 - Implemented signal processing and time-series analysis using scientific Python libraries.
 - Developed experimental deep learning models for applied research and pattern recognition.
 - Applied neural network techniques to distinguish chaotic and non-chaotic signals.
+- Currently developing an article documenting the methodology, experiments, and results of the work.
 
 ---
 
